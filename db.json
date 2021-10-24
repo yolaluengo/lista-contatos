@@ -1,0 +1,16 @@
+{
+  "contatos": [
+    {
+      "nome": "dully luengo",
+      "email": "alexander69munoz@gmail.com",
+      "telefone": "33322589",
+      "id": 1
+    },
+    {
+      "nome": "Andreina Velazquez",
+      "email": "rrulay@hotmail.com",
+      "telefone": "33322589",
+      "id": 2
+    }
+  ]
+}
